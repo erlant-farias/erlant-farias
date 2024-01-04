@@ -32,13 +32,17 @@
 
   
 
-<h3>💻 Tecnologias mais utilizadas</h3>
+<h3>💻 Tecnologias mais utilizadas - Github Status</h3>
+  <a href="https://github.com/erlant-farias">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erlant-farias&layout=compact&theme=radical" alt="Tecnologias mais usadas por Erlant-Farias">
+  </a>
 
-[![Tecnologias mais usadas por Erlant-Farias](https://github-readme-stats.vercel.app/api/top-langs/?username=erlant-farias&layout=compact&theme=radical)](https://github.com/erlant-farias)
+  <a href="https://github.com/erlant-farias">
+    <img src="https://github-readme-stats.vercel.app/api?username=erlant-farias&show_icons=true&theme=radical" alt="Status do Erlant-Farias no GitHub">
+  </a>
 
 
 
-<h3>💻 Github Status</h3>
 
-[![Status do Erlant-Farias no GitHub](https://github-readme-stats.vercel.app/api?username=erlant-farias&show_icons=true&theme=radical)](https://github.com/erlant-farias)
+
 
