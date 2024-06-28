@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Dump+Sobre+Devops!" alt="Typing SVG" /></a>
 
 
-## Bem vindo, visitante! Sou o Erlant, entusiasta na aréa de Devops. Aqui está um resumo das minhas informações:
+## Sou um entusiasta de tecnologia e automação com sólida experiência em Infraestrutura de TI, DevOps e administração de sistemas. Minha paixão é transformar problemas complexos em soluções eficientes, utilizando tecnologias de ponta e boas práticas.
 
   Trabalho com as seguintes tecnologias: 
 <p align="center">
